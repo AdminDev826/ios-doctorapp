@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NurseMainVC.(loadNurseItems() -&gt; ()).(closure #1):NurseMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NurseMainVC.mapView(MKMapView, viewForAnnotation : MKAnnotation) -&gt; MKAnnotationView?:NurseMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NurseMainVC.loadPinsOnMap() -&gt; ():NurseMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ClientBookingsMainVC.showOptionsView(UIButton) -&gt; ():ClientBookingsMainVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.tag">
+            </PersistentString>
+            <PersistentString
+               value = "cell?.btnOptions.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TrackNurseVC.(updateNurseLocation(NSTimer) -&gt; ()).(closure #1):TrackNurseVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NurseMainVC.setupAnnocations() -&gt; ():NurseMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NurseMainVC.loadNurseItems() -&gt; ():NurseMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ClientServiceVC.initializeUI() -&gt; ():ClientServiceVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Singleton.sharedInstance.user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClientBookingsMainVC.(loadBookingItems() -&gt; ()).(closure #1):ClientBookingsMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NurseMainVC.(loadNurseItems() -&gt; ()).(closure #1).(closure #1):NurseMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NurseMainVC.update() -&gt; ():NurseMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TrackNurseVC.updateNurseLocation(NSTimer) -&gt; ():TrackNurseVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nurseInfo?">
+            </PersistentString>
+            <PersistentString
+               value = "Singleton.sharedInstance.currentClientSelectedBookingItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NurseMainVC.generateCustomPin(UIImage, photo : UIImage) -&gt; UIImage:NurseMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NurseMainVC.updateMap() -&gt; ():NurseMainVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ClientBookRequestVC.loadViewInfo() -&gt; ():ClientBookRequestVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Singleton.sharedInstance.currentCategory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

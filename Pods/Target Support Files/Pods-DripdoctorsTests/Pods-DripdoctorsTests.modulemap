@@ -1,0 +1,6 @@
+framework module Pods_DripdoctorsTests {
+  umbrella header "Pods-DripdoctorsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
